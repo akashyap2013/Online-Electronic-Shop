@@ -1,0 +1,20 @@
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\csc.exe
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\System.Collections.Immutable.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\vbc.exe
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\VBCSCompiler.exe
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\roslyn\VBCSCompiler.exe.config
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\Online Electronic Store.dll.config
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\Online Electronic Store.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\Online Electronic Store.pdb
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\obj\Debug\Online Electronic Store.csprojResolveAssemblyReference.cache
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\obj\Debug\Online Electronic Store.dll
+c:\users\akshay\documents\visual studio 2015\Projects\Online Electronic Store\Online Electronic Store\obj\Debug\Online Electronic Store.pdb
